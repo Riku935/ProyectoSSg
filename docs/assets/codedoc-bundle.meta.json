@@ -74,6 +74,11 @@
       "name": "gatherFootnotes",
       "filename": "C:/Users/Ricardo/Documents/Proyectos_Git/ProyectoGenerador/.codedoc/node_modules/@codedoc/core/dist/es5/components/footnote/gather-footnotes.js",
       "hash": "C0a0Yi7Z9cHtqSmhkX4xPw=="
+    },
+    {
+      "name": "reloadOnChange",
+      "filename": "C:/Users/Ricardo/Documents/Proyectos_Git/ProyectoGenerador/.codedoc/node_modules/@codedoc/core/dist/es5/serve/reload.js",
+      "hash": "55iysoMoU7yGa3scGRVgFA=="
     }
   ],
   "components": [

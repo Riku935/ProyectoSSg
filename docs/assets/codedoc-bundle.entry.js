@@ -14,6 +14,7 @@ import { tocHighlight } from 'C:/Users/Ricardo/Documents/Proyectos_Git/ProyectoG
 import { postNavSearch } from 'C:/Users/Ricardo/Documents/Proyectos_Git/ProyectoGenerador/.codedoc/node_modules/@codedoc/core/dist/es5/components/page/toc/search/post-nav/index.js';postNavSearch();
 import { copyLineLinks } from 'C:/Users/Ricardo/Documents/Proyectos_Git/ProyectoGenerador/.codedoc/node_modules/@codedoc/core/dist/es5/components/code/line-links/copy-line-link.js';copyLineLinks();
 import { gatherFootnotes } from 'C:/Users/Ricardo/Documents/Proyectos_Git/ProyectoGenerador/.codedoc/node_modules/@codedoc/core/dist/es5/components/footnote/gather-footnotes.js';gatherFootnotes();
+import { reloadOnChange } from 'C:/Users/Ricardo/Documents/Proyectos_Git/ProyectoGenerador/.codedoc/node_modules/@codedoc/core/dist/es5/serve/reload.js';reloadOnChange();
 import { ToCToggle } from 'C:/Users/Ricardo/Documents/Proyectos_Git/ProyectoGenerador/.codedoc/node_modules/@codedoc/core/dist/es5/components/page/toc/toggle/index.js';
 import { DarkModeSwitch } from 'C:/Users/Ricardo/Documents/Proyectos_Git/ProyectoGenerador/.codedoc/node_modules/@codedoc/core/dist/es5/components/darkmode/index.js';
 import { ConfigTransport } from 'C:/Users/Ricardo/Documents/Proyectos_Git/ProyectoGenerador/.codedoc/node_modules/@codedoc/core/dist/es5/transport/config.js';
