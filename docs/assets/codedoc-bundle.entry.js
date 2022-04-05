@@ -19,16 +19,16 @@ import { ToCToggle } from 'C:/Users/Ricardo/Documents/Proyectos_Git/ProyectoGene
 import { DarkModeSwitch } from 'C:/Users/Ricardo/Documents/Proyectos_Git/ProyectoGenerador/.codedoc/node_modules/@codedoc/core/dist/es5/components/darkmode/index.js';
 import { ConfigTransport } from 'C:/Users/Ricardo/Documents/Proyectos_Git/ProyectoGenerador/.codedoc/node_modules/@codedoc/core/dist/es5/transport/config.js';
 import { TabSelector } from 'C:/Users/Ricardo/Documents/Proyectos_Git/ProyectoGenerador/.codedoc/node_modules/@codedoc/core/dist/es5/components/tabs/selector.js';
-import { ToCPrevNext } from 'C:/Users/Ricardo/Documents/Proyectos_Git/ProyectoGenerador/.codedoc/node_modules/@codedoc/core/dist/es5/components/page/toc/prevnext/index.js';
 import { CollapseControl } from 'C:/Users/Ricardo/Documents/Proyectos_Git/ProyectoGenerador/.codedoc/node_modules/@codedoc/core/dist/es5/components/collapse/collapse-control.js';
+import { ToCPrevNext } from 'C:/Users/Ricardo/Documents/Proyectos_Git/ProyectoGenerador/.codedoc/node_modules/@codedoc/core/dist/es5/components/page/toc/prevnext/index.js';
 
 const components = {
   'kRv5y+SDHGPQVoWSCLUsAQ==': ToCToggle,
   'u3MEbfKn48q3DZW+l+ppTw==': DarkModeSwitch,
   'csQSZU5iPSmHDHQnaRRU+Q==': ConfigTransport,
   'pcWoyla21egbAIq89zl1EA==': TabSelector,
-  '+f97hYXg6wmyn7pDbcERFg==': ToCPrevNext,
-  'tpb5N5ppq+Aq+sINhHGjDQ==': CollapseControl
+  'tpb5N5ppq+Aq+sINhHGjDQ==': CollapseControl,
+  '+f97hYXg6wmyn7pDbcERFg==': ToCPrevNext
 };
 
 const renderer = getRenderer();

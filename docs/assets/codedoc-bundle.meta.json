@@ -103,14 +103,14 @@
       "hash": "pcWoyla21egbAIq89zl1EA=="
     },
     {
-      "name": "ToCPrevNext",
-      "filename": "C:/Users/Ricardo/Documents/Proyectos_Git/ProyectoGenerador/.codedoc/node_modules/@codedoc/core/dist/es5/components/page/toc/prevnext/index.js",
-      "hash": "+f97hYXg6wmyn7pDbcERFg=="
-    },
-    {
       "name": "CollapseControl",
       "filename": "C:/Users/Ricardo/Documents/Proyectos_Git/ProyectoGenerador/.codedoc/node_modules/@codedoc/core/dist/es5/components/collapse/collapse-control.js",
       "hash": "tpb5N5ppq+Aq+sINhHGjDQ=="
+    },
+    {
+      "name": "ToCPrevNext",
+      "filename": "C:/Users/Ricardo/Documents/Proyectos_Git/ProyectoGenerador/.codedoc/node_modules/@codedoc/core/dist/es5/components/page/toc/prevnext/index.js",
+      "hash": "+f97hYXg6wmyn7pDbcERFg=="
     }
   ],
   "renderer": {

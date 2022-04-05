@@ -1,12 +1,14 @@
-# Primer pagina
+# Practica #5
+## Mi pagina con el generador codedoc
 
-Modify `docs/md/index.md` to change the contents of this page. This will be your starting
-page on your GitHub Pages site. y agregar mas palabras
+Luis Ricardo Calderon Rios
 
-To get started, run `codedoc check` to see which configurations you most probably need to change,
-and get instructions on how to change them. Also don't forget to check the official docs of **CODEDOC**.
+Tercer Semestre
 
+Sistemas operativos
+
+
+ __El siguiente boton lleva a un bonito video__
 > :Buttons
-> > :Button label=Official Docs, url=https://codedoc.cc
+> > :Button label=Bonito video, url=https://www.youtube.com/watch?v=mCdA4bJAGGk
 
-> :ToCPrevNext
